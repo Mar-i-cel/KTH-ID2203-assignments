@@ -1,3 +1,5 @@
+//{"gradingToken":[45,45,45,45,45,66,69,71,73,78,32,80,71,80,32,77,69,83,83,65,71,69,45,45,45,45,45,10,86,101,114,115,105,111,110,58,32,66,67,80,71,32,118,49,46,53,53,10,10,104,81,73,77,65,57,79,116,77,118,84,69,98,74,49,102,65,81,47,43,75,104,51,76,56,112,119,53,90,71,88,107,53,67,115,121,56,110,86,87,55,89,113,68,119,103,88,108,122,89,78,116,71,109,89,47,83,107,43,109,101,57,66,73,10,67,86,67,65,120,79,70,119,103,122,49,114,70,53,109,57,75,71,75,52,50,113,72,88,107,101,80,78,122,86,109,99,75,76,85,90,69,86,66,52,67,108,107,67,120,89,121,51,112,84,99,100,66,105,121,89,104,108,65,105,77,80,67,97,10,57,77,57,48,65,111,72,104,52,119,116,101,67,114,117,81,79,77,106,103,98,114,76,73,102,87,99,43,77,121,99,69,122,119,75,79,108,115,69,48,73,56,116,83,116,51,66,71,121,69,48,48,54,122,100,69,100,51,107,53,73,55,77,68,10,113,100,51,119,85,111,49,71,80,77,75,80,74,79,49,47,57,72,104,118,70,109,88,65,116,99,56,98,97,72,53,68,69,100,100,67,89,50,107,69,51,85,104,114,73,105,101,86,119,78,114,72,97,77,72,85,117,103,85,115,69,48,54,86,10,78,112,108,97,84,114,106,74,121,117,72,67,103,68,53,108,84,81,73,74,121,79,100,84,88,121,67,97,89,81,111,55,43,109,103,117,102,48,47,88,48,102,112,100,72,52,77,55,68,57,50,106,57,82,43,49,51,107,120,54,87,80,114,80,10,57,49,85,89,103,113,52,90,70,114,122,68,90,84,57,56,121,71,54,51,69,87,68,101,66,122,76,86,119,70,83,71,77,70,65,84,71,78,55,50,70,66,68,110,52,99,67,56,88,57,88,74,106,106,104,104,112,115,53,86,67,111,66,71,10,104,57,85,122,114,102,75,103,117,122,107,109,116,50,56,101,104,75,43,57,79,80,72,111,49,78,118,50,76,43,77,54,102,54,108,82,85,106,78,104,90,72,121,71,108,101,79,69,86,86,84,66,70,100,118,51,109,84,107,57,89,111,47,78,10,49,113,86,68,82,65,87,84,82,50,71,53,54,110,117,87,88,104,52,114,101,78,88,52,72,55,105,112,111,113,113,116,67,97,90,112,110,119,66,74,86,122,116,99,78,102,87,79,54,116,99,80,99,111,103,84,115,110,53,116,55,113,83,98,10,119,81,100,113,103,101,99,73,43,104,113,105,122,97,50,81,65,72,51,43,117,107,116,82,66,73,48,51,79,53,47,77,49,48,75,48,53,86,108,99,112,113,52,100,89,51,51,70,112,114,84,113,43,85,120,112,97,56,55,120,83,117,111,97,10,102,54,53,81,82,78,69,116,116,119,71,77,87,70,72,110,78,43,67,89,120,75,84,71,118,103,80,106,73,74,84,98,51,74,74,56,77,77,119,81,77,86,55,68,75,47,107,114,90,98,52,81,56,100,47,120,81,47,97,90,57,81,111,83,10,101,83,115,75,118,55,77,50,103,105,104,56,114,48,80,98,106,53,65,69,105,84,101,97,48,81,48,114,88,109,90,114,104,47,52,99,48,97,72,117,111,122,99,66,107,102,71,74,118,118,82,105,112,76,102,88,74,105,112,98,90,50,106,83,10,119,67,81,66,102,80,115,113,80,118,111,110,51,112,107,103,110,73,70,114,71,103,101,110,69,71,109,109,105,71,51,79,114,81,102,65,118,86,89,85,106,107,88,48,72,99,57,115,118,54,56,122,109,51,56,105,110,112,56,51,70,97,88,105,10,50,115,56,119,122,65,105,97,73,105,117,114,101,84,111,56,113,110,75,78,77,75,65,108,114,98,73,119,49,112,79,116,109,108,78,121,115,84,86,67,55,52,117,48,76,70,47,54,54,119,66,86,117,103,114,120,83,101,117,77,116,121,53,102,10,57,90,99,98,88,57,120,81,120,86,116,104,83,84,80,86,49,70,113,56,57,78,83,67,99,85,105,106,84,53,53,107,112,103,112,78,83,100,102,106,103,105,89,102,48,76,51,83,56,82,56,77,70,101,120,110,55,112,120,79,48,88,111,52,10,101,68,115,112,75,49,74,119,108,75,67,80,121,122,115,121,72,114,69,120,102,57,107,118,81,56,74,122,117,115,48,69,53,54,49,86,82,49,118,53,103,82,118,56,114,72,87,116,118,84,89,99,111,67,101,119,84,119,103,82,81,107,109,69,10,66,79,98,70,83,75,74,49,97,121,107,105,48,120,73,82,51,56,114,70,117,76,105,122,115,48,90,47,121,71,68,109,52,68,101,74,107,55,65,75,104,114,115,113,81,89,105,113,65,111,115,61,10,61,104,57,122,119,10,45,45,45,45,45,69,78,68,32,80,71,80,32,77,69,83,83,65,71,69,45,45,45,45,45,10]}
+
 // ### Exercise 1: Build an Eventually Perfect Failure Detector
 //
 // An Eventually Perfect Failure Detector (EPFD), in Kompics terms, is a component that **provides** the following port _(already imported in the code)_.
@@ -40,51 +42,32 @@ import scala.collection.mutable._
 object EPFD {
 
   //Declare custom message types related to internal component implementation
-  case class CheckTimeout(timeout: ScheduleTimeout) extends Timeout(timeout); //are this the time units where each process after time units sends a heartbeat?
+  case class CheckTimeout(timeout: ScheduleTimeout) extends Timeout(timeout);
 
-  case class HeartbeatReply(seq: Int) extends KompicsEvent;//A KompicsEvent used as a response to heartbeat requests, so this one is for when i recieve a heartbeat from another process and i have to respond saying im alive?
-  //When your process receives a HeartbeatRequest, you send back a HeartbeatReply with the same sequence number. This is how you say "Yes, I'm alive!" to the process that asked.
-  
-  case class HeartbeatRequest(seq: Int) extends KompicsEvent;//a heartbeat to ask if a process is alive, Sent periodically to all processes being monitored, so this is for asking other process if they r alive?
-  //This is the message you send to other processes to check if they're alive. You send this periodically (based on the timer) to every process you're monitoring. The seq (sequence number) helps track which round of checking this is, so old replies don't confuse the algorithm.
-
+  case class HeartbeatReply(seq: Int) extends KompicsEvent;
+  case class HeartbeatRequest(seq: Int) extends KompicsEvent;
 }
 
 //Define EPFD Implementation
 class EPFD(epfdInit: Init[EPFD]) extends ComponentDefinition {
 
   //EPFD subscriptions
-  val timer = requires[Timer];//This is the timer service that tells EPFD when to do its periodic checks. You use it to:
-    //Schedule: "Hey timer, wake me up in period milliseconds"
-    //Get notified: Timer sends back CheckTimeout event when time is up
-    //Then EPFD sends heartbeat requests to all processes
-
-  val pLink = requires[PerfectLink];//This is the network channel for:
-    //Sending HeartbeatRequest messages to other processes
-    //Receiving HeartbeatReply messages from other processes
-
-  val epfd = provides[EventuallyPerfectFailureDetector];//epfd (Provides port) → EXTERNAL REPORTING
-    //Suspect(node) announcements to applications
-    //Restore(node) announcements to applications
-    //EPFD-to-APPLICATION talk (reporting results)
+  val timer = requires[Timer];
+  val pLink = requires[PerfectLink];
+  val epfd = provides[EventuallyPerfectFailureDetector];
 
   // EPDF component state and initialization
   val self = epfdInit match {
     case Init(s: Address) => s
-  }//the  process's own address. So it knows who am i
+  }
 
-  val topology = cfg.getValue[List[Address]]("epfd.simulation.topology");// This is the list of all processes in the system that EPFD should monitor (including itself).
-  val delta = cfg.getValue[Long]("epfd.simulation.delay");//This is the base timeout increment. It's a constant that determines how much to increase the timeout period when needed.
+  val topology = cfg.getValue[List[Address]]("epfd.simulation.topology");
+  val delta = cfg.getValue[Long]("epfd.simulation.delay");
 
-  var period = cfg.getValue[Long]("epfd.simulation.delay");//It IS "time to wait before checking everyone again"
-  //When it increments: When EPFD detects that alive and suspected sets overlap (some suspected processes are actually alive), it increases period by delta
-
-  var alive = Set(cfg.getValue[List[Address]]("epfd.simulation.topology"): _*);//this is the set of processes that we know are alive i guess
-  var suspected = Set[Address]();//this is the set of process we know are suspected of being dead i guess
-  var seqnum = 0; //This is a sequence number/counter that:
-    //Increments each checking round
-    //Attached to HeartbeatRequest messages
-    //Round 1: Send HeartbeatRequest(seq=1) → Expect HeartbeatReply(seq=1)
+  var period = cfg.getValue[Long]("epfd.simulation.delay");
+  var alive = Set(cfg.getValue[List[Address]]("epfd.simulation.topology"): _*);
+  var suspected = Set[Address]();
+  var seqnum = 0;
 
   def startTimer(delay: Long): Unit = {
     val scheduledTimeout = new ScheduleTimeout(period);
@@ -100,18 +83,7 @@ class EPFD(epfdInit: Init[EPFD]) extends ComponentDefinition {
     }
   }
 
-
-//EPFD only suspects failed processes, strong completness
-//EPDF eventually no correct process is suspected by any correct process
-//every Y time units and heartbeat to all process
-//each process waits T time unites
-//  IF did NOT get a heartbeat from P
-//    indicate <suspect, P> If P is not in the suspect set
-//    Put P in suspect set
-//  IF did get heartbeat from P AND P is in suspect set
-//    indicate <restore, P> and remove P from suspect set
-//    increse timeout
-  timer uponEvent {// so this is where the heartbeats are
+  timer uponEvent {
     case CheckTimeout(_) => {
       if (!alive.intersect(suspected).isEmpty) {
         /* WRITE YOUR CODE HERE */
