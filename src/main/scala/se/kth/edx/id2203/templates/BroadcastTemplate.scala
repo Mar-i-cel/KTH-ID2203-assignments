@@ -269,7 +269,7 @@ class WaitingCRB(init: Init[WaitingCRB]) extends ComponentDefinition {
 object BroadcastCheck extends App  {
     // NOTE: this exercise has 3 parts, during development feel free to comment out individual checks.
     // For submission, all checks need to pass.
-    //checkBEB[BasicBroadcast]();
-    //checkRB[BasicBroadcast,EagerReliableBroadcast]();
+    checkBEB[BasicBroadcast]();
+    checkRB[BasicBroadcast,EagerReliableBroadcast]();
     checkCRB[BasicBroadcast, EagerReliableBroadcast, WaitingCRB]();
 }
