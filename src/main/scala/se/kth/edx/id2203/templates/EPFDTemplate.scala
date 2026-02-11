@@ -95,11 +95,11 @@ class EPFD(epfdInit: Init[EPFD]) extends ComponentDefinition {
       for (p <- topology) {
         if (!alive.contains(p) && !suspected.contains(p)) {
          /* WRITE YOUR CODE HERE */
-         suspected = suspected + p;
+         suspected += p;
          trigger(Suspect(p) -> epfd);
 
         } else if (alive.contains(p) && suspected.contains(p)) {
-          suspected = suspected - p;
+          suspected -= p;
           trigger(Restore(p) -> epfd);
         }
         trigger(PL_Send(p, HeartbeatRequest(seqnum)) -> pLink);
@@ -120,7 +120,7 @@ class EPFD(epfdInit: Init[EPFD]) extends ComponentDefinition {
         //alive = alive + src
          /* WRITE YOUR CODE HERE */
          if (seq == seqnum) {
-            alive = alive + src
+            alive += src
         }
     }
   }
